@@ -20,3 +20,4 @@ A very simple bash script to install my essential packages
 - qt5-wayland
 - qt6-wayland
 - xdg-desktop-portal-hyprland
+- pipewire
