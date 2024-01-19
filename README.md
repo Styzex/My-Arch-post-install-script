@@ -21,3 +21,4 @@ A very simple bash script to install my essential packages
 - qt6-wayland
 - xdg-desktop-portal-hyprland
 - pipewire
+- My dotfiles for hyprland
