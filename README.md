@@ -1,9 +1,9 @@
 # !!! Not tested !!!
 
-# My-Arch-post-install-script
+## My-Arch-post-install-script
 A very simple bash script to install my essential packages
 
-## List of the packages
+### List of the packages
 - hyprland
 - yay
 - waybar
